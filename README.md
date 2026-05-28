@@ -276,13 +276,3 @@ Nota
 
 Este proyecto fue desarrollado con fines académicos.
 El pago simulado no procesa dinero real ni almacena información bancaria.
-
-
-## Después de pegarlo
-
-Haz commit desde GitHub con mensaje:
-
-```txt
-docs: mejorar formato del README
-
-Con eso el README ya no se verá como un bloque feo, sino organizado con títulos, tablas, listas y comandos.
