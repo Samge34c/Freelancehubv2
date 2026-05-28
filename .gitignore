@@ -1,0 +1,10 @@
+﻿target/
+node_modules/
+dist/
+.idea/
+.vscode/
+uploads/
+.env
+*.log
+backend-cors-opcional/
+README_FULLSTACK.md
