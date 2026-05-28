@@ -1,4 +1,4 @@
-﻿FreelanceHub
+FreelanceHub
 Plataforma de contratación freelance con pago simulado, evidencias y arbitraje
 Integrantes:
 Samuel Riveros
